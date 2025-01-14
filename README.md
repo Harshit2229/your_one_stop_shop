@@ -46,10 +46,10 @@ This app follows the BLoC (Business Logic Component) pattern and includes:
 ## Dependencies
 
 - flutter_bloc: ^8.1.3
-- http: ^1.1.0
+- http: ^1.2.2
 - equatable: ^2.0.5
-- shared_preferences: ^2.2.0
-- flutter_secure_storage: ^8.0.0
+- shared_preferences: ^2.3.5
+- flutter_secure_storage: ^9.2.4
 
 ## API Reference
 
